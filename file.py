@@ -10,12 +10,11 @@ y = ' '.join(format(x, 'b') for x in bytearray(f.read(), "utf-8"))
 y.replace(" ", "")
 waittime = len(y.replace("1", "00"))
 
-print("calculation time " +str(waittime*.0000000000000000000000001) +" seconds")
-print("file size " + str(len(y)) + " bytes")
-
 for n in find(y, "1"):
     sep = n*.0000000000000000000000001
     #time.sleep(sep)
     print("time.sleep("+str(sep)+")")
     
+print("calculation time " +str(waittime*.0000000000000000000000001) +" seconds")
+print("file size " + str(len(y)) + " bytes")
 #CIA  6H9CHJ39
