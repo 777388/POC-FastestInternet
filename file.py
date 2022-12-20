@@ -14,6 +14,8 @@ print("calculation time " +str(waittime*.0000000000000000000000001) +" seconds")
 print("file size " + str(len(y)) + " bytes")
 
 for n in find(y, "1"):
-    time.sleep(n*.0000000000000000000000001)
+    sep = n*.0000000000000000000000001
+    #time.sleep(sep)
+    print("time.sleep("+str(sep)+")")
     
 #CIA  6H9CHJ39
