@@ -1,6 +1,7 @@
 # POC-FastestInternet
 NOTICE: This may cause a Quantum Wave Form Decay theory to occur that has seemingly slowed down the universe to 10-70 trillionths of a second
 as our optics sensors are capable of figuring out Scientific Planck Time which is used for the computational determination of time allotments. A technology that seems to not exist here, though we do have optics sensors clocking in at 10-70 trillionths of a second as mentioned, instead of the Septillionth of a second where I come from. A DARPA representative was talking me through Quantum Wave Form Decay caused by the sending of only wait data, which we agreed was good for the world in lowering the high frequency radiation barage which occurs in technology before I noticed the change and the messages from him disappeared.
+That being said, if you run this program you will need to update your OS to take on measurements of time via Optics sensors and program with a language that accepts it for measurement purposes as wait time is also limited to around .013 of a second in current standings
 
 Worlds fastest internet download speeds, capable of downloading the entire internet a million times over in less than a second in Binary
 
